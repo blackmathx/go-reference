@@ -1,7 +1,0 @@
-package main
-
-import "fmt"
-
-func b_numbers() {
-	fmt.Println("b_numbers.go")
-}

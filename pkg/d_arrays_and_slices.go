@@ -1,9 +1,9 @@
-package main
+package pkg
 
 import "fmt"
 
-func d_arrays_and_slices() {
-	fmt.Println("d_arrays_and_slices.go")
+func Arrays_and_slices() {
+
 	var arr1 = [3]int{1, 2, 3}
 	arr2 := [5]int{4, 5, 6, 7, 8}
 

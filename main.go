@@ -1,20 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"go-reference/pkg"
+)
 
 func main() {
 	fmt.Println("go-reference")
-	a_intro()
-	b_numbers()
-	c_strings()
-	d_arrays_and_slices()
-	e_maps()
-	f_conditionals_and_loops()
-	g_structs()
-	h_goroutines()
-	i_file_io()
-	j_time_and_date()
-	k_testing_and_benchmarks()
+
+	pkg.Intro()
+	pkg.Numbers()
+	pkg.Strings()
+	pkg.Arrays_and_slices()
+	pkg.Maps()
 
 	fmt.Println("end")
 }
