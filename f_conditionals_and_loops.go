@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func f_cond() {
-	fmt.Println("b_numbers.go")
+func f_conditionals_and_loops() {
+	fmt.Println("...")
 }

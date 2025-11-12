@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func k_testing() {
-	fmt.Println("b_numbers.go")
+func k_testing_and_benchmarks() {
+	fmt.Println("...")
 }

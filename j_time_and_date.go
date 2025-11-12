@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func j_time() {
-	fmt.Println("b_numbers.go")
+func j_time_and_date() {
+	fmt.Println("...")
 }
