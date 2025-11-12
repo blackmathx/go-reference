@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func b_numbers() {
+func g_structs() {
 	fmt.Println("b_numbers.go")
 }

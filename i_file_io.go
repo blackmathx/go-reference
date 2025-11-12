@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func b_numbers() {
+func i_file_io() {
 	fmt.Println("b_numbers.go")
 }

@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func b_numbers() {
+func h_go() {
 	fmt.Println("b_numbers.go")
 }

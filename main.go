@@ -2,10 +2,11 @@ package main
 
 import "fmt"
 
-
-func main(){
+func main() {
 	fmt.Println("go-reference")
-	a_strings()
-	c_arrays()
+	a_intro()
+	b_numbers()
+	c_strings()
+	d_arrays_and_slices()
+	e_maps()
 }
-
