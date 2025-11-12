@@ -2,17 +2,17 @@ package main
 
 import (
 	"fmt"
-	"go-reference/pkg"
+	"go-reference/cmd/app"
 )
 
 func main() {
 	fmt.Println("go-reference")
 
-	pkg.Intro()
-	pkg.Numbers()
-	pkg.Strings()
-	pkg.Arrays_and_slices()
-	pkg.Maps()
+	app.Intro()
+	app.Numbers()
+	app.Strings()
+	app.Arrays_and_slices()
+	app.Maps()
 
 	fmt.Println("end")
 }

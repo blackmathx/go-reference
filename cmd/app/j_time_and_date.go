@@ -1,4 +1,4 @@
-package pkg
+package app
 
 func Time_and_date() {
 
