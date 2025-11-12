@@ -4,9 +4,8 @@ import "fmt"
 
 
 func main(){
-	fmt.Println("hello world")
+	fmt.Println("go-reference")
 	a_strings()
-	other()
-
+	c_arrays()
 }
 
