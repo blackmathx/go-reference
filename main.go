@@ -14,5 +14,5 @@ func main() {
 	app.Arrays_and_slices()
 	app.Maps()
 
-	fmt.Println("end")
+	fmt.Println("exiting")
 }
